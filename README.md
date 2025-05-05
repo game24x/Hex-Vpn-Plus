@@ -31,8 +31,10 @@ Routes your full internet traffic securely through proxy.
 ## 🖼 Screenshots
 
 ### 🔹 Home Screen  
-<img src="screenshots/Hexvpnplusss.jpg" width="300"/>
 
+<p align="center">
+  <img src="screenshots/Hexvpnplusss.jpg" width="120"/>
+</p>
 
 ---
 
