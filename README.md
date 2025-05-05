@@ -1,7 +1,7 @@
 # 🚀 Hex VPN Plus
 
 <p align="center">
-  <img src="screenshots/hexvpnpro.png" width="120"/>
+  <img src="screenshots/hexvpnpro.png" width="160"/>
 </p>
 
 
@@ -33,7 +33,7 @@ Routes your full internet traffic securely through proxy.
 ### 🔹 Home Screen  
 
 <p align="center">
-  <img src="screenshots/Hexvpnplusss.jpg" width="120"/>
+  <img src="screenshots/Hexvpnplusss.jpg" width="300"/>
 </p>
 
 ---
