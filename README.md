@@ -1,6 +1,9 @@
 # 🚀 Hex VPN Plus
 
-<img src="screenshots/hexvpnpro.png" width="120"/>
+<p align="center">
+  <img src="screenshots/logo.png" width="120"/>
+</p>
+
 
 **Hex VPN Plus** is a fast and secure Android VPN app that connects you to the internet through any SOCKS5 proxy. It’s designed for users who want full control over their privacy, speed, and freedom.
 
