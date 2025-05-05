@@ -1,7 +1,7 @@
 # 🚀 Hex VPN Plus
 
 <p align="center">
-  <img src="screenshots/hhexvpnpro.png" width="160"/>
+  <img src="screenshots/hhexvpnplus.png" width="160"/>
 </p>
 
 
