@@ -1,21 +1,57 @@
-Hex VPN Plus
-Hex VPN Plus is a fast, lightweight VPN app for Android that allows users to securely connect to the internet using custom SOCKS5 proxy settings. It’s perfect for users who want full control over their proxy connection, privacy, and internet freedom.
+# 🚀 Hex VPN Plus
 
-🌟 Key Features
-🔐 Custom SOCKS5 Proxy Input
-Users can manually enter their own SOCKS5 proxy (IP, port, username, and password if needed) and connect instantly.
+<img src="screenshots/hexvpnpro.png" width="120"/>
 
-⚡ Fast & Reliable Connection
-Experience smooth browsing, streaming, and app access through high-speed SOCKS5 proxies.
+**Hex VPN Plus** is a fast and secure Android VPN app that connects you to the internet through any SOCKS5 proxy. It’s designed for users who want full control over their privacy, speed, and freedom.
 
-🌍 Bypass Censorship & Geo-Blocks
-Access blocked websites, apps, and content by tunneling your traffic through a proxy.
+---
 
-🧠 Simple, Clean UI
-Easy-to-use interface where users can quickly input proxy info and toggle VPN on/off.
+## 📱 App Highlights
 
-📱 Lightweight & Efficient
-Designed for performance with minimal battery and data usage.
+🔒 **Full SOCKS5 Proxy Support**  
+Connect to your private SOCKS5 proxy with custom IP, Port, and credentials.
 
-🛠 How It Works
-Hex VPN Plus acts as a VPN interface that routes all internet traffic through a SOCKS5 proxy provided by the user. This enhances privacy, masks the user's IP address, and can bypass firewalls or network restrictions.
+🚀 **Fast & Lightweight**  
+Smooth performance with low battery usage.
+
+🌐 **Unblock Websites & Apps**  
+Bypass censorship and network restrictions anywhere.
+
+🧠 **Clean, Simple UI**  
+User-friendly interface with minimal steps to connect.
+
+📡 **Uses Android VPNService**  
+Routes your full internet traffic securely through proxy.
+
+---
+
+## 🖼 Screenshots
+
+### 🔹 Home Screen  
+<img src="screenshots/Hexvpnplusss.jpg" width="300"/>
+
+
+---
+
+## 🔄 App Updates
+
+All new updates, version changes, and feature logs will be posted here in the repository under [Releases](https://github.com/yourusername/hex-vpn-plus/releases) or the **Changelog** section.
+
+---
+
+## 🔐 Privacy Policy
+
+Read our [Privacy Policy](PRIVACY_POLICY.md) for more information about data handling.
+
+---
+
+## 📧 Contact
+
+For support, feedback, or business inquiries:  
+📬 `hexvai@proton.me`
+
+---
+
+> 🚫 **Disclaimer**  
+> Hex VPN Plus does not provide or promote illegal proxy usage. Users must use their own proxies responsibly under local laws.
+
